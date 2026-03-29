@@ -7,7 +7,7 @@ require "session_check.php";
     <meta charset="utf-8" />
     <title>Trang chủ</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- Font Awesome -->
+    <!-- Font Awesome 111111-->
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
 
     <!-- Google fonts -->
